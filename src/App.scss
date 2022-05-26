@@ -1,0 +1,22 @@
+* {
+    outline: none;
+    border: none;
+}
+
+.input-size {
+    width: 200px;
+    transition: ease-in-out .15s;
+}
+
+.input-size:hover {
+    width: 250px;
+}
+
+.bg {
+    background: linear-gradient(145deg, #fff, #fefefe);
+}
+
+.imagem {
+    width: 80%;
+    object-fit: fill;
+}
